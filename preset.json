@@ -7,6 +7,9 @@
       "lintOn": [
         "save"
       ]
+    },
+    "vue-cli-plugin-moor-init":{
+      "replace": "true"
     }
   }
 }
